@@ -3,6 +3,7 @@
 This file documents the description of the output data set:
 
 - Activity
+<<<<<<< HEAD
 
         Activity performed by subject
         
@@ -571,5 +572,3 @@ This file documents the description of the output data set:
         
         Numeric variable (dimensionless)
         
-
-                
